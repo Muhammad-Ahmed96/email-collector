@@ -9,7 +9,7 @@ const expressHbs = require('express-handlebars');
 
 const express = require('express');
 
-const MONGODB_URI = 'mongodb+srv://gaellejopwou:TestWeinthis2023@cluster0.kwz35jx.mongodb.net/emails?retryWrites=true&w=majority'
+const MONGODB_URI = 'mongo db connection string'
 const app = express();
 
 // const client = new MongoClient(MONGODB_URI);
